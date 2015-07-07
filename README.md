@@ -1,5 +1,17 @@
 # 07_07_15_github_practice
 This is meant to give you a bit of practice with GitHub. You will practice cloning, forking, making changes, and pushing your changes on GitHub.
+
+INSTRUCTIONS TO FORK AND CLONE:
+
+STEP 1: Click fork in the top, right-hand corner and fork the repo to your own GitHub account.
+STEP 2: Copy the link to clone the repo. (You'll see a HTTPS link on the right-hand column.)
+STEP 3: Open nitrous and type "git clone #PASTE THE LINK HERE#" (This will make a copy of the repo in Nitrous.)
+STEP 4: Navigate into the new directory in terminal and follow the instructions in github_practice.rb
+
+...
+
+INSTRUCTIONS FOR GitHub Practice
+
 Start by running the file. (You run a ruby file by typing "ruby github_practice.rb" in your command line.)
 
 Once you understand how the program works, please change the variable #favsong to one of your favorite songs. Feel 
