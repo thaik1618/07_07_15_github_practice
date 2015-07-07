@@ -30,4 +30,4 @@ puts "I don't know why... I guess it just makes me feel #{feeling}."
 # STEP 11: Check the repo that you forked on GitHub.
 # STEP 12: Woo! Wooo! Woooooo!
 
-#          You are level 2 git masta'!
+#          You just leveled up your gitness. My goodness, you're good!
